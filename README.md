@@ -24,10 +24,10 @@ Can we predict the risk level (low, medium, or high) of ongoing publicly funded 
 The primary data source will be OpenCoesione (https://opencoesione.gov.it/it/opendata/#!progetti_section). The dataset for projects spanning 2014–2020 will serve as the training dataset, while projects from 2021–2027 will be used for testing.
 
 I used at the moment:
-[Project portfolio 2014-2020 -- too large not imported](Data_OC/progetti_esteso_2014-2020_20240831.parquet)
-[Project portfolio 2014-2020 -- imported for 2014-2020 FESR - part of the total not imported](Data_OC/df1.parquet)
-[Project portfolio 2021-2027](Data_OC/progetti_esteso_2021-2027_20240831.parquet)
-[Metadata structure of project information](Data_OC/metadati_progetti_tracciato_esteso.parquet)
+- [Project portfolio 2014-2020 -- too large not imported](Data_OC/progetti_esteso_2014-2020_20240831.parquet)
+- [Project portfolio 2014-2020 -- imported for 2014-2020 FESR - part of the total not imported](Data_OC/df1.parquet)
+- [Project portfolio 2021-2027](Data_OC/progetti_esteso_2021-2027_20240831.parquet)
+- [Metadata structure of project information](Data_OC/metadati_progetti_tracciato_esteso.parquet)
 
 #### Methodology
 
@@ -68,9 +68,7 @@ In future work, I intend to incorporate procurement data related to project supp
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Project Application](Risk_An_v6_2_rid.ipynb)
 
 
 ##### Contact and Further Information
